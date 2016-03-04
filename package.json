@@ -11,5 +11,9 @@
   "dependencies": {},
   "dev-dependencies": {
     "coffee-script": "1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duanefields/angular-base-classes.git"
   }
 }
