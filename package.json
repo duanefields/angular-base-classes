@@ -1,6 +1,6 @@
 {
   "name": "angular-base-classes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -8,8 +8,7 @@
   },
   "author": "Duane Fields <duane@duanefields.com>",
   "license": "ISC",
-  "dependencies": {
-  },
+  "dependencies": {},
   "dev-dependencies": {
     "coffee-script": "1.10.0"
   }
